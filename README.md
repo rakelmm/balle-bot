@@ -13,6 +13,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 Landing page feita apenas com HTML e CSS! 
+<h5 align="center">
+<ahttps://balle-bot-2k0l8qz0z-rakelmm.vercel.app/>VEJA AQUI COMO FICOU O PROJETO!</a>
+</h5>
 
 ---
 
