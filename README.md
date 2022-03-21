@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img alt="Balle Bot" src="assets/mascote.svg" width="100%">
+  <img alt="Balle Bot" src="assets/mascote.svg" width="30%">
 </p>
 
 ## 🚀 Tecnologias
